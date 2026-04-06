@@ -74,7 +74,7 @@ In this first assignment, we will focus on:
 
 ## Submission
 
-Upload a link to your forked github repo on sakai
+Upload a link to your forked github repo on Canvas.
 
 > **GRADING:**
 > There are 9 total test cases in the `sql` folder.
